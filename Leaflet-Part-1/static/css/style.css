@@ -1,0 +1,27 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend {
+  background: white;
+  padding: 5px;
+  border: 1px solid #000;
+  border-radius: 8px;
+}
+
+.legend h3 {
+  margin: 0;
+  text-align: center;
+}
+
+i {
+  padding: 1px 5px;
+  margin: 0 5px;
+}
