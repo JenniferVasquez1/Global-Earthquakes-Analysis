@@ -2,7 +2,7 @@
 ![MIT](https://img.shields.io/badge/License-MIT-blue)
 
 ## Website: 
-[website](https://github.com/JenniferVasquez1/leaflet-analysis)
+[website](https://jennifervasquez1.github.io/leaflet-analysis/)
 
 ## Description
 Provides a world wide view of recent earthquake activity including details like magnitude, place, time and date.
