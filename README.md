@@ -1,4 +1,4 @@
-# Earthquakes Analysis
+# Global Earthquakes Analysis
 ![MIT](https://img.shields.io/badge/License-MIT-blue)
 
 ## Website: 
